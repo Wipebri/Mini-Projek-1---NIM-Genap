@@ -2,24 +2,25 @@
 DWI PEBRIYANTO PRADANA | 2409116012 | SISTEM INFORMASI A 2024
 
 # Flowchart
-![Flowchart - Mini projek 1 - DWI 012](https://github.com/user-attachments/assets/716ebedb-b761-4eb8-9e49-63d30fb3d797)
+![Flowchart - Mini projek 1 - DWI 012](https://github.com/user-attachments/assets/50fc3cf8-3870-4bd6-b2ab-e58edf5324a4)
 
 # Penjelasan output pada terminal
 1. User melakukan Log In dengan memasukan Nama, NIM(int), dan PIN(int)
+   
    ![Cuplikan layar 2024-09-29 145146](https://github.com/user-attachments/assets/f84b1ea0-fb32-4865-940e-8ed66ee8aec0)
 
-   ![Cuplikan layar 2024-09-29 151054](https://github.com/user-attachments/assets/7677f1e4-3d8a-415e-8926-79303345e0ab)
+   ![Cuplikan layar 2024-09-29 164119](https://github.com/user-attachments/assets/aff98bf0-58a6-4fe0-97d1-805a630d15f8)
 
-   Jika user salah dalam memasukan NIM atau PIN program akan selesai
+   Jika user salah dalam memasukan PIN program akan selesai
    
    ![output jika login benar](https://github.com/user-attachments/assets/346bc002-6274-4e26-bbd6-13b59bd40ef4)
 
-   Jika user benar dalam memasukan NIM dan PIN, user akan menuju proses penginputan barang
+   Jika user benar dalam memasukan PIN, user akan menuju proses penginputan barang
    
-2. setelah berhasil log In user bisa memasukan Nama barang, Harga(int) dan jumlahnya(int)
+3. setelah berhasil log In user bisa memasukan Nama barang, Harga(int) dan jumlahnya(int)
    ![output menginput barang](https://github.com/user-attachments/assets/4b470f29-c075-410b-be15-acead3c34fee)
 
-3. proses perhitungan harga total
+4. proses perhitungan harga total
    
    ![output jika melebihi 250000](https://github.com/user-attachments/assets/5c7c6030-1cd3-43b9-9797-386fc4af8957)
 
@@ -28,3 +29,18 @@ DWI PEBRIYANTO PRADANA | 2409116012 | SISTEM INFORMASI A 2024
    ![output tidak dapat diskon](https://github.com/user-attachments/assets/56009874-f670-4e3d-a525-d475de7ab56d)
 
    jika harga total kurang dari 250000 maka tidak mendapat diskon 25%
+
+5. penawaran untuk menginput ulang harga dan jumlah barang
+   
+   ![output jika melebihi 250000](https://github.com/user-attachments/assets/8fe3ae12-2bf8-43e3-bd68-9d686a1efa08)
+   ![Cuplikan layar 2024-09-29 164828](https://github.com/user-attachments/assets/8e4c2a41-4c28-4569-afb8-4597cc35e4f2)
+
+   jika user tidak mengetik sesuai pilihan yang diperintahkan akan muncul tulisan "input tidak sesuai" dan memerintahkan untuk mengetik sesuai pilihan yang disediakan
+
+   ![output jika memilih ya](https://github.com/user-attachments/assets/9058acc0-3547-4393-b5be-ac346bfe557b)
+
+   jika user memilih "YA" user dapat menginput ulang harga dan jumlah barang
+
+   ![output jika memilih tidak](https://github.com/user-attachments/assets/5017e925-44fa-452d-884f-bc68ae151ed9)
+
+   jika user memilih "TIDAK" maka proses akan selesai dengan menampilkan total harga terakhir
