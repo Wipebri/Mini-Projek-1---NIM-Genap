@@ -25,7 +25,7 @@ DWI PEBRIYANTO PRADANA | 2409116012 | SISTEM INFORMASI A 2024
 
 
 
-3. proses perhitungan harga total
+3. proses perhitungan total harga
    
    ![output jika melebihi 250000](https://github.com/user-attachments/assets/5c7c6030-1cd3-43b9-9797-386fc4af8957)
 
@@ -33,7 +33,7 @@ DWI PEBRIYANTO PRADANA | 2409116012 | SISTEM INFORMASI A 2024
 
    ![output tidak dapat diskon](https://github.com/user-attachments/assets/56009874-f670-4e3d-a525-d475de7ab56d)
 
-   jika harga total kurang dari 250000 maka tidak mendapat diskon 25%.
+   jika total harga kurang dari 250000 maka tidak mendapat diskon 25%.
 
 
 4. penawaran untuk menginput ulang harga dan jumlah barang
@@ -41,12 +41,12 @@ DWI PEBRIYANTO PRADANA | 2409116012 | SISTEM INFORMASI A 2024
    ![output jika melebihi 250000](https://github.com/user-attachments/assets/8fe3ae12-2bf8-43e3-bd68-9d686a1efa08)
    ![Cuplikan layar 2024-09-29 164828](https://github.com/user-attachments/assets/8e4c2a41-4c28-4569-afb8-4597cc35e4f2)
 
-   jika user tidak mengetik sesuai pilihan yang diperintahkan akan muncul tulisan "input tidak sesuai" dan memerintahkan untuk mengetik sesuai pilihan yang disediakan.
+   jika user tidak mengetik sesuai pilihan yang diperintahkan maka akan muncul tulisan "input tidak sesuai" dan memerintahkan untuk mengetik sesuai pilihan yang disediakan.
    
 
    ![output jika memilih ya](https://github.com/user-attachments/assets/9058acc0-3547-4393-b5be-ac346bfe557b)
 
-   jika user memilih "YA" user dapat menginput ulang harga dan jumlah barang, sehingga dapat melakukan penghitungan ulang.
+   jika user memilih "YA" user dapat menginput ulang harga dan jumlah barang
    
 
    ![output jika memilih tidak](https://github.com/user-attachments/assets/5017e925-44fa-452d-884f-bc68ae151ed9)
