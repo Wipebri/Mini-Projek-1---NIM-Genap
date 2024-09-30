@@ -2,7 +2,8 @@
 DWI PEBRIYANTO PRADANA | 2409116012 | SISTEM INFORMASI A 2024
 
 # Flowchart
-![Flowchart - Mini projek 1 - DWI 012](https://github.com/user-attachments/assets/50fc3cf8-3870-4bd6-b2ab-e58edf5324a4)
+![Flowchart - Mini projek 1 - DWI 012(1)](https://github.com/user-attachments/assets/9c24cd8e-61a8-4cc3-9ca5-a6601ee5cf52)
+
 
 # Penjelasan output pada terminal
 1. User melakukan Log In dengan memasukan Nama, NIM(int), dan PIN(int)
