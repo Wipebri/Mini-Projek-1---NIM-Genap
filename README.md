@@ -2,7 +2,8 @@
 DWI PEBRIYANTO PRADANA | 2409116012 | SISTEM INFORMASI A 2024
 
 # Flowchart
-![Flowchart - Mini projek 1 - DWI 012(1)](https://github.com/user-attachments/assets/bbab9950-5513-47b3-8624-c691cb9fc2f8)
+![Flowchart - Mini projek 1 - DWI 012(1)](https://github.com/user-attachments/assets/db38aa30-8cc6-4315-a2ec-57075e091e5e)
+
 
 
 
