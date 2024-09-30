@@ -16,6 +16,8 @@ DWI PEBRIYANTO PRADANA | 2409116012 | SISTEM INFORMASI A 2024
    ![output jika login benar](https://github.com/user-attachments/assets/346bc002-6274-4e26-bbd6-13b59bd40ef4)
 
    Jika user benar dalam memasukan PIN, user akan menuju proses penginputan barang
+
+   sistem login yang digunakan yaitu if & else, dengan user memasukan PIN yang sesuai maka proses akan berlanjut, jika PIN tidak sesuai proses akan berakhir
    
 3. setelah berhasil log In user bisa memasukan Nama barang(str), Harga(int) dan jumlahnya(int)
    ![output menginput barang](https://github.com/user-attachments/assets/4b470f29-c075-410b-be15-acead3c34fee)
