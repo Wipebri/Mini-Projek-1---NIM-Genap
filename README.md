@@ -11,7 +11,7 @@ DWI PEBRIYANTO PRADANA | 2409116012 | SISTEM INFORMASI A 2024
 
    ![Cuplikan layar 2024-09-29 164119](https://github.com/user-attachments/assets/aff98bf0-58a6-4fe0-97d1-805a630d15f8)
 
-   Jika user salah dalam memasukan PIN program akan selesai.
+   Jika user salah dalam memasukan PIN, program akan selesai.
    
    ![output jika login benar](https://github.com/user-attachments/assets/346bc002-6274-4e26-bbd6-13b59bd40ef4)
 
@@ -41,7 +41,7 @@ DWI PEBRIYANTO PRADANA | 2409116012 | SISTEM INFORMASI A 2024
    ![output jika melebihi 250000](https://github.com/user-attachments/assets/8fe3ae12-2bf8-43e3-bd68-9d686a1efa08)
    ![Cuplikan layar 2024-09-29 164828](https://github.com/user-attachments/assets/8e4c2a41-4c28-4569-afb8-4597cc35e4f2)
 
-   jika user tidak mengetik sesuai pilihan yang diperintahkan maka akan muncul tulisan "input tidak sesuai" dan memerintahkan untuk mengetik sesuai pilihan yang disediakan. proses akan terus berulang hingga user menginput sesuai pilihan.
+   jika user tidak mengetik sesuai pilihan yang diperintahkan, maka akan muncul tulisan "input tidak sesuai" dan memerintahkan untuk mengetik sesuai pilihan yang disediakan. proses akan terus berulang hingga user menginput sesuai pilihan.
    
 
    ![output jika memilih ya](https://github.com/user-attachments/assets/9058acc0-3547-4393-b5be-ac346bfe557b)
